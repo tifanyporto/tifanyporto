@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript (Vanilla.JS)**
 
-- 🤝 I'm looking for help with **my first opportunity**
-
-- 💬 Ask me about **CSS,I think..**
-
 - 📫 How to reach me **tifany.porto@outlook.com**
 
 - ⚡ Fun fact **Guess I'll always be battling CSS, but I love it**
